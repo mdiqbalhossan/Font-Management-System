@@ -1,0 +1,52 @@
+[
+    {
+        "id": "66e2ffd9907421.14613676",
+        "name": "Font Group one",
+        "fonts": [
+            "Kanit-Bold",
+            "NerkoOne-Regular"
+        ],
+        "fontsName": [
+            "Kanit",
+            "Nerko"
+        ]
+    },
+    {
+        "id": "66e304ecd40a42.52018530",
+        "name": "Font Group Three",
+        "fonts": [
+            "Kanit-Bold",
+            "ProtestGuerrilla-Regular",
+            "RobotoCondensed-VariableFont_wght"
+        ],
+        "fontsName": [
+            "Kanit",
+            "Protest",
+            "Roboto"
+        ]
+    },
+    {
+        "id": "66e5d940de51e6.66645137",
+        "name": "Font Group Two",
+        "fonts": [
+            "Oswald-VariableFont_wght",
+            "PlaywriteCU-VariableFont_wght"
+        ],
+        "fontsName": [
+            "OsWald",
+            "PlaywriteCU"
+        ]
+    },
+    {
+        "id": "66e83638a418a5.75870899",
+        "name": "Font Group Four",
+        "fonts": [
+            "Oswald-VariableFont_wght",
+            "PlaywriteCU-VariableFont_wght"
+        ],
+        "fontsName": [
+            "OsWald",
+            "PlaywriteCU"
+        ]
+    }
+]
